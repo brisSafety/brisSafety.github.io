@@ -1,0 +1,18 @@
+{
+  "name": "brisbane internet safety",
+  "authors": [
+    "brisbaneinternetsafety@gmail.com"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "GPL2",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
