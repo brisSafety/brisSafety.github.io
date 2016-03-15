@@ -74,7 +74,5 @@ h2 {
 }
 .navbar a{
   color: white !important;
-}
-.navbar a:hover{
   background-color: #008200 !important;
 }
