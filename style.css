@@ -1,0 +1,13 @@
+.bs-docs-header{
+  background-color: #FFF;
+  background-image: url('img/cryptoparty-logo.png');
+  background-repeat: none none;
+  background-size:200px;
+  color: white;
+  padding:50px;
+  margin-bottom: 50px;
+}
+
+.main-content{
+  margin-bottom: 200px;
+}
