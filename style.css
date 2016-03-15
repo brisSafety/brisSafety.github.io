@@ -1,13 +1,80 @@
+/** Hero stuff **/
+
 .bs-docs-header{
   background-color: #FFF;
-  background-image: url('img/cryptoparty-logo.png');
-  background-repeat: none none;
-  background-size:200px;
   color: white;
   padding:50px;
   margin-bottom: 50px;
+  color: #00b500;
+  font-weight:bold;
+  text-align: center;
 }
 
+.bs-docs-header > img {
+  margin: 0 auto;
+  display: block;
+  height:300px;
+}
+
+.bs-docs-header-inner{
+  display: inline-block;
+  text-align: left;
+  margin: 0 auto;
+}
+.bs-docs-header-inner > div{
+margin-left: 5px;
+}
+
+h1{
+  margin: 0;
+  font-size: 72px;
+}
+
+.btn-lg{
+  display: block;
+  margin: 10px auto;
+  width: 200px;
+}
+
+
+/** main **/
 .main-content{
   margin-bottom: 200px;
+}
+h2 {
+  color: #008200 ;
+}
+.btn-primary{
+  background: #00b500;
+  border-color: #008200;
+
+}
+.btn-primary.focus, 
+.btn-primary:focus,
+.btn-primary:hover,
+.btn-primary.active,
+.btn-primary:active,
+.open>.dropdown-toggle.btn-primary
+.btn-primary.active.focus,
+.btn-primary.active:focus,
+.btn-primary.active:hover,
+.btn-primary:active.focus,
+.btn-primary:active:focus,
+.btn-primary:active:hover,
+.open>.dropdown-toggle.btn-primary.focus,
+.open>.dropdown-toggle.btn-primary:focus,
+.open>.dropdown-toggle.btn-primary:hover{
+ background: #00b500;
+  border-color: #008200;
+}
+
+/**navbar**/
+.navbar {
+  background-color: #008200;
+}
+.navbar a{
+  color: white !important;
+}
+.navbar a:hover{
+  background-color: #008200 !important;
 }
